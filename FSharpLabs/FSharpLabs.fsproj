@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="FourthLab.fs" />
+    <Compile Include="ThirdLab.fs" />
+    <Compile Include="FirstLab.fs" />
+    <Compile Include="SecondLab.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
